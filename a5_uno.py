@@ -251,7 +251,7 @@ if __name__ == '__main__':
     p.append(a5_player.RandomAiPlayer("HAL 9000"))
     p.append(a5_player.RandomAiPlayer("WOPR"))
     p.append(a5_player.RandomAiPlayer("Skynet"))
-    p.append(a5_player.RankThenSuitAiPlayer("lil hoe"))
+    p.append(a5_player.RankThenSuitAiPlayer("lil pump"))
     
     # TODO: Students, after you implement the RankThenSuitAiPlayer, add a 5th
     # player to the game using your new RankThenSuitAiPlayer implementation.  This
